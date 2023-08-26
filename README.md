@@ -1,4 +1,4 @@
 # FEWD.github.io
 This is my first Git Repository
 <br>
-Author- Chinmayee Bhat git
+Author- Chinmayee Bhat 
